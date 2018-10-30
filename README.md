@@ -88,7 +88,7 @@ Videos
 Contributing
 =======================================================================
 
-Contributions welcome! This list is just getting started, please contribute to make it super awesome, but read the [contribution guidelines](contributing.md) first.
+Contributions welcome! This list is just getting started, please contribute to make it super awesome, but read the [contribution guidelines](CONTRIBUTING.md) first.
 
 
 ## License
