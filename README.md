@@ -35,6 +35,7 @@ Menu
 
 * [Clients](#clients)
   * [Java](#java)
+  * [Scala](#scala)
   * [Go](#go)
   * [Python](#python)
   * [C++](#cpp)
@@ -52,6 +53,9 @@ Clients
 
   ### Java
   - [Official Java client](http://pulsar.apache.org/docs/en/client-libraries-java/)
+
+  ### Scala
+  - [Pulsar4s](https://github.com/sksamuel/pulsar4s)
 
   ### Go
   - [Official Go client](http://pulsar.apache.org/docs/en/client-libraries-go/)
